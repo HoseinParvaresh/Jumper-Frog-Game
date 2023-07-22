@@ -1,0 +1,14 @@
+Name: reza
+Username: bil
+Password: 20001379
+Age: 71
+Gender: male
+National Code: 31245673
+----------------------------------
+Name: amir
+Username: amir
+Password: 12345678
+Age: 20
+Gender: male
+National Code: 123456
+----------------------------------
