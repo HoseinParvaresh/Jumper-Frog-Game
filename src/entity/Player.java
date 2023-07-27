@@ -25,10 +25,8 @@ public class Player extends Entity {
     }
     public void setDefaultValues() {
         getPlayerImage();
-       // worldX = gp.tileSize * 12; //موقعیت اولیه کاراکتر
-      //  worldY = gp.tileSize * 15; //
-        worldX = gp.tileSize * 12; //موقعیت اولیه کاراکتر
-        worldY = gp.tileSize * 12; //موقعیت اولیه کاراکتر
+        worldX = gp.tileSize * 12;
+        worldY = gp.tileSize * 15;
         speed = 3; //سرعت کاراکتر
         direction = "up";
         maxLife = 6;
